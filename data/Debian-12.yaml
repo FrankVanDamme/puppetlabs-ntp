@@ -1,3 +1,4 @@
 ---
+ntp::config: /etc/ntpsec/ntp.conf
 ntp::service_name: 'ntpsec'
-ntp::package_name: [ 'ntpsec' ]
+ntp::package_name: ['ntpsec']
